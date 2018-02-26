@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"  >
-	<com.dn.customview.TagLayout
+	<com.demo.shawn.taglayout.TagLayout
 	    android:layout_width="match_parent"
 	    android:layout_height="wrap_content" >
 	
@@ -55,5 +55,5 @@
 	        android:layout_margin="5dp"
 	        android:textColor="#ff0"
 	        android:text="我是文本ddddddddddd" />
-	</com.dn.customview.TagLayout>
+	</com.demo.shawn.taglayout.TagLayout>
 </LinearLayout>
